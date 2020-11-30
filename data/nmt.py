@@ -15,7 +15,7 @@ random.seed(12345)
 
 # change this if you want it to work with another language
 #LOCALES = ['en_US']
-
+EXAMPLES = ['']
 def load_dataset(data):
     vietnam_vocab = set()
     japan_vocab = set()
